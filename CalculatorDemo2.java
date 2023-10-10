@@ -10,7 +10,7 @@ package javaex6;
 import java.util.*;
 /**
  *
- * @author VISHWA
+ * @author SIVAJB
  */
 class numlimit extends Exception
 {
